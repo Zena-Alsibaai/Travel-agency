@@ -83,8 +83,8 @@ header nav ul li a{
 /*	main-image*/
 #main-image{
 	height: 580px;
-/*	background-image: url('https://github.com/azena-sirius/Travel-agency/img/christian-holzinger-lqQlmcPt9Qg-unsplash.jpg') center;*/
-	background-image: url('./img/christian-holzinger-lqQlmcPt9Qg-unsplash.jpg') center;
+	background-image: url('https://github.com/azena-sirius/Travel-agency/img/christian-holzinger-lqQlmcPt9Qg-unsplash.jpg') center;
+	/*background-image: url('./img/christian-holzinger-lqQlmcPt9Qg-unsplash.jpg') center;*/
 }
 #main-image h2{
 	font-weight: normal;
