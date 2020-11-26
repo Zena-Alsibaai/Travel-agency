@@ -84,7 +84,7 @@ header nav ul li a{
 #main-image{
 	height: 580px;
 	/*on essaie :d */
-	background-image: url('img/christian-holzinger-lqQlmcPt9Qg-unsplash.jpg') center;
+	background: url('img/christian-holzinger-lqQlmcPt9Qg-unsplash.jpg') center;
 	
 }
 #main-image h2{
