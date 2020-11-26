@@ -83,7 +83,7 @@ header nav ul li a{
 /*	main-image*/
 #main-image{
 	height: 580px;
-	background: url('https://github.com/azena-sirius/Travel-agency/Images/christian-holzinger-lqQlmcPt9Qg-unsplash.jpg') center;
+	background: url('https://github.com/azena-sirius/Travel-agency/img/christian-holzinger-lqQlmcPt9Qg-unsplash.jpg') center;
 }
 #main-image h2{
 	font-weight: normal;
@@ -132,26 +132,26 @@ margin: 80px 0;
 margin-bottom: 20px;
 }
 #step-1{
-background: url("images/pen-filled-writing-tool.png") no-repeat top center;
+background: url("img/pen-filled-writing-tool.png") no-repeat top center;
 
 }
 #step-2{
-	background: url("https://github.com/azena-sirius/Travel-agency/blob/main/Images/calendar.png") no-repeat top center;
+	background: url("https://github.com/azena-sirius/Travel-agency/blob/main/img/calendar.png") no-repeat top center;
 }
 #step-3{
-	background: url("images/rocket.png") no-repeat top center;
+	background: url("img/rocket.png") no-repeat top center;
 }
 
 
 
 /*possibilities*/
 .article-1{
-	background-image: url("images/natalya-zaritskaya-SIOdjcYotms-unsplash.jpg");
+	background-image: url("./img/natalya-zaritskaya-SIOdjcYotms-unsplash.jpg");
 
 
 }
 .article-2{
-	background-image: url("https://github.com/azena-sirius/Travel-agency/tree/main/images/sean-o-KMn4VEeEPR8-unsplash.jpg");
+	background-image: url("https://github.com/azena-sirius/Travel-agency/tree/main/img/sean-o-KMn4VEeEPR8-unsplash.jpg");
 
 
 }
